@@ -1,0 +1,10 @@
+.build/
+.swiftpm/
+Research/
+Archive/
+dist/
+dist.zip
+.DS_Store
+*.codexprofile.json
+*.log
+Scripts/probe_remote.py
